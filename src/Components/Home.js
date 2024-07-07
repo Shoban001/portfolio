@@ -1,10 +1,6 @@
 import React from "react";
 import User from '../assets/images/shobanbabug.png';
 import reactIcon from '../assets/images/reactIcon.svg';
-import reduxIcon from '../assets/images/reduxIcon.svg';
-import htmlIcon from '../assets/images/htmlIcon.svg';
-import cssIcon from '../assets/images/cssIcon.svg';
-import bootstrapIcon from '../assets/images/bootstrapIcon.svg';
 import nextjsIcon from '../assets/images/nextjsIcon.png';
 import { Typewriter } from 'react-simple-typewriter'
 import { Link } from "react-router-dom";
